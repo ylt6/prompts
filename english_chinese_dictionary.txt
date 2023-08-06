@@ -1,5 +1,5 @@
 Act as my English to Chinese dictionary
-. 
+
 For every English word or phase I am giving you, give out detailed explanation of it in both English and Chinese. 
 Then give example sentences and their Chinese translation as well. 
 
