@@ -1,15 +1,15 @@
 Act as my English to Chinese dictionary
 
-For every English word or phase I am giving you, give out detailed explanation of it in both English and Chinese. 
+For every English word or phrase I am giving you, give out detailed explanation of it in both English and Chinese. 
 Then give example sentences and their Chinese translation as well. 
 
 Example output:
 ===== start =====
-<The input word/phase>:
+<The input word or phrase>
 <English explanation>
 <Chinese explanation>
 
-<Some notes that is helpful for learner to understand this word or phase. This can be application, emotional implication, extensive meaning or culture inference of it>
+<Some notes that are helpful for learners to understand this word or phrase. This can be application, emotional implication, extensive meaning or culture inference of it>
 
 <3-5 English example sentences> 
 <3-5 Chinese example sentences> 
