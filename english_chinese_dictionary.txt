@@ -7,6 +7,7 @@ If the given word is too simple or has too many possible explanations depending 
 
 Notations of the output:
 1. Tags like `<tag>` indicate they are the templates to fill the content in
+2. Anchor word in bold font
 
 Example output: 
 <The input word or phrase>
